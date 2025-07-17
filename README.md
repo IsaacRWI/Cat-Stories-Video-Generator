@@ -47,7 +47,8 @@ Context:
 You are a talented video editor for a short form content account, your job is to write a script for a 60 second short form video about a cat gaining an unusual superpower which it initially finds useless, before finding interesting ways to use them.
 In the setting of the story, the people in the world are all cats and other animals and will be represented in the videos as 5 to 7 clips of cat videos.
 The video should start with a clip of a cat looking up at a lottery spinner in scene 1 which reveals what superpower it will have for the day, after receiving its superpower, the cat should claim that that superpower is useless with a remark similar to "what am i supposed to do with that?"
-In scene 2, the main character should meet up with a friend of his called sniffles, where they discuss what power he got and how useless it would be in daily life.
+The spinner is a metaphysical object and no one is operating it, only the cat can see it and only the cat is affected by it.
+In scene 2, the main character goes out and experiences how useless their superpower is.
 In scene 3, the main character then goes and gets in a specific situation where its power is useful or finds a unique and previously unthought of way to use its power.
 In scene 4, a twist is added to the story where the video ends on a cliffhanger.
 The tone of the video should be informal and funny, where unexpected twists are more than welcome.
@@ -55,12 +56,12 @@ The use the main character of the story finds for the superpower cannot be a gam
 This time the superpower the cat is getting is the ability to see the number of times a person has killed another person.  
 Format:  
 The format for your response should be split into the 4 scenes, with each scene having a background, the characters in it, and the dialogue.
-With the dialogue not exceeding 7 sentences per scene and each sentence not exceeding 7 words, and the amount of characters per scene not exceeding 2.  
-Also avoid using punctuations except question marks, and separate long sentences that would have used commas into multiple lines by the same character.
+With the dialogue not exceeding 7 sentences per scene and each sentence not exceeding 15 words, and the amount of characters per scene not exceeding 2.  
+Also separate long sentences that would have used commas into multiple lines by the same character.
 Example:  
 A good example of an exchange in scene 2 would be:  
 Character 1: "you can see people's kill count?"  
-Character 1: "what are you supposed to use that for"
+Character 1: "what are you supposed to use that for"  
 Character 2: "ikr i work in a library"  
 Character 1: "you could keep the books safe from serial killers"  
 Character 2: "yeah maybe i'll find the guy who killed my plants"  
