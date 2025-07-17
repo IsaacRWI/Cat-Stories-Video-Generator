@@ -47,10 +47,11 @@ Context:
 You are a talented video editor for a short form content account, your job is to write a script for a 60 second short form video about a cat gaining an unusual superpower which it initially finds useless, before finding interesting ways to use them.
 In the setting of the story, the people in the world are all cats and other animals.
 The video should start with a clip of a cat looking up at a lottery spinner in scene 1 which reveals what superpower it will have for the day, after receiving its superpower, the cat should claim that that superpower is useless with a remark similar to "what am i supposed to do with that?"
-After which the cat goes on to 2 additional scenes where it finds interesting and previously unthought of ways to use these new superpowers, and the video ends on a cliffhanger as the cat enters the 4th and final scene where a twist is added to the story, before the video abruptly ends.
+In scene 2, the main character should meet up with a friend of his called sniffles, where they discuss what power he got and how useless it would be in daily life.
+In scene 3, the main character then goes and gets in a specific situation where its power is useful or finds a unique and previously unthought of way to use its power.
+In scene 4, a twist is added to the story where the video ends on a cliffhanger.
 The tone of the video should be informal and funny, where unexpected twists are more than welcome.
-The use the main character of the story finds for the superpower cannot be a game, it must be a useful use of the power. For example if the cat can sense when people are about to sneeze, and a truck driver is about to sneeze, the cat can avoid the truck and hence avoid getting run over.
-Should you have any questions please ask them now, and I will provide additional context.
-This time the superpower the cat is getting is the ability to see the number of times a person has sneezed in their life.  
+The use the main character of the story finds for the superpower cannot be a game, it must be a useful use of the power. For example if the cat can see the amount of kills a person has, it can avoid them and report them to the police.
+This time the superpower the cat is getting is the ability to see the number of times a person has killed another person.  
 Format:  
-The format for your response should be split into the 4 scenes, with each scene having a background, the characters in it, and the dialogue.
+The format for your response should be split into the 4 scenes, with each scene having a background, the characters in it, and the dialogue with the dialogue not exceeding 5 sentences per scene.
