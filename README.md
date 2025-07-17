@@ -42,3 +42,13 @@ Preliminary format:
 }  
 ]  
 
+## Prompt for Generating JSON File  
+Context:  
+You are a talented video editor for a short form content account, your job is to write a script for a 60 second short form video about a cat gaining an unusual superpower which it initially finds useless, before finding interesting ways to use them.
+The video should start with a clip of a cat looking up at a lottery spinner in scene 1 which reveals what superpower it will have for the day, after receiving its superpower, the cat should claim that that superpower is useless with a remark similar to "what am i supposed to do with that?"
+After which the cat goes on to 2 additional scenes where it finds interesting and previously unthought of ways to use these new superpowers, and the video ends on a cliffhanger as the cat enters the 4th and final scene where a twist is added to the story, before the video abruptly ends.
+The tone of the video should be informal and funny, where unexpected twists are more than welcome.
+Should you have any questions please ask them now, and I will provide additional context.
+This time the superpower the cat is getting is the ability to see the number of times a person has sneezed in their life.  
+Format:  
+The format for your response should be split into the 4 scenes, with each scene having a background, the characters in it, and the dialogue.
