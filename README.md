@@ -49,18 +49,20 @@ In the video, the characters in it will be represented by 5 to 7 second clips of
 
 The video should start with a clip of a character in their bedroom alone, looking up at a lottery spinner in scene 1 which reveals what superpower it will have for the day, after receiving its superpower, the cat should claim that that superpower is useless with a remark similar to "what am i supposed to do with that?"
 The spinner is a metaphysical object and no one is operating it, only the main character can see it and only the main character is affected by it, but other characters do acknowledge the superpower. You do not need to include it in the script, you only need to include what the superpower of the day is under the variable power listed in scene one. 
+The character only reacts to the spinner after it lands on a superpower, whilst its spinning, the character only looks up at it waiting
 In scene 2, the main character goes out and experiences how useless their superpower is.
 In scene 3, the main character then goes and gets in a specific situation where its power is useful or finds a unique and previously unthought of way to use its power.
-In scene 4, a twist is added to the story where the video ends on a cliffhanger.    
-Only characters in the scene can have dialogue, and only characters in frame exist, do not reference other characters and squirrels you make up that have not been and are not in scenes.
+In scene 4, a twist is added to the story where the video ends on a cliffhanger. The video should end abruptly after the cliffhanger is revealed, no need for the character to comment or try to make sense of the situation.   
+Only characters in the scene can have dialogue, and only characters in frame exist, do not reference other characters and squirrels you make up that have not been and are not in scenes, not even characters that are out of frame that the character can see.
 The tone of the video should be informal, engaging and funny, where unexpected twists are more than welcome. Keep the dialogue's wording simple and avoid using more words than necessary.
 The use the main character of the story finds for the superpower cannot be a game, it must be a useful use of the power. For example if the cat can see the amount of kills a person has, it can avoid them and report them to the police.
-This time the superpower the character is getting is the ability to see the number of times a person has killed another person.  
+This time the superpower the character is getting is the main character can see the amount of times someone has killed something.  
 Format:  
 The format for your response should be split into the 4 scenes, with each scene having a background, the characters in it, and the dialogue.
 With the dialogue not exceeding 7 sentences per scene and each sentence not exceeding 15 words, and the amount of characters per scene not exceeding 2.  
 As there will be only 2 characters at one time in a scene, do not make up names for the characters and do not reference the character's names in the dialogue, in the script the name of the main character will be "mc" and the other character in the scene if there are any will be "sc".
-Also avoid using a full stop in dialogue and separate long sentences that would have used full stops into multiple lines by the same character.
+Also avoid using a full stop in dialogue and separate long sentences that would have used full stops into multiple lines by the same character. 
+Do not contradict yourself in the scenes, if you have stated how a superpower works in one scene, do not change it in the next scene, and plan the whole story before writing it out to avoid contradictions.
 Example:  
 A good example of an exchange in scene 2 would be:  
 Background: Park  
