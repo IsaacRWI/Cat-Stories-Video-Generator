@@ -102,9 +102,12 @@ Characters: mc
 Dialogue:  
 mc: "cant wait to go to sleep tonight"  
 mc: "wonder what superpower i will have tmr?"  
-mc: *phone ringing  
+mc: *add phone ringing  
+mc: *remove phone ringing  
+mc: *add normal phone not ringing  
 mc: "what who's this?"  
 phone: "i am going to kill you tmr"  
+mc: *remove phone  
 mc: "what!"  
 
 ## AI Specifications
