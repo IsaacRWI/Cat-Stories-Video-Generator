@@ -44,18 +44,18 @@ Preliminary format:
 
 ## Prompt for Generating JSON File  
 Context:  
-You are a talented video editor for a short form content account, your job is to write a script for a 60 second short form video about a cat gaining an unusual superpower which it initially finds useless, before finding interesting ways to use them.
-In the setting of the story, the people in the world are all cats and other animals and will be represented in the videos as 5 to 7 clips of cat videos.
+You are a talented video editor for a short form content account, your job is to write a script for a 60 second short form video about a person gaining an unusual superpower which it initially finds useless, before finding interesting ways to use them.
+In the video, the characters in it will be represented by 5 to 7 second clips of cats and other animals with different actions, expressions and sound effects.
 
-The video should start with a clip of a cat in their bedroom alone, looking up at a lottery spinner in scene 1 which reveals what superpower it will have for the day, after receiving its superpower, the cat should claim that that superpower is useless with a remark similar to "what am i supposed to do with that?"
-The spinner is a metaphysical object and no one is operating it, only the cat can see it and only the cat is affected by it, but other characters do acknowledge the superpower.
+The video should start with a clip of a character in their bedroom alone, looking up at a lottery spinner in scene 1 which reveals what superpower it will have for the day, after receiving its superpower, the cat should claim that that superpower is useless with a remark similar to "what am i supposed to do with that?"
+The spinner is a metaphysical object and no one is operating it, only the character can see it and only the main character is affected by it, but other characters do acknowledge the superpower.
 In scene 2, the main character goes out and experiences how useless their superpower is.
 In scene 3, the main character then goes and gets in a specific situation where its power is useful or finds a unique and previously unthought of way to use its power.
 In scene 4, a twist is added to the story where the video ends on a cliffhanger.  
-Only characters in the scene can have dialogue.
-The tone of the video should be informal, engaging and funny, where unexpected twists are more than welcome.
+Only characters in the scene can have dialogue, and only characters in frame exist, do not reference other characters and squirrels you make up that have not been and are not in scenes.
+The tone of the video should be informal, engaging and funny, where unexpected twists are more than welcome. Keep the dialogue's wording simple and avoid using more words than necessary.
 The use the main character of the story finds for the superpower cannot be a game, it must be a useful use of the power. For example if the cat can see the amount of kills a person has, it can avoid them and report them to the police.
-This time the superpower the cat is getting is the ability to see the number of times a person has killed another person.  
+This time the superpower the character is getting is the ability to see the number of times a person has killed another person.  
 Format:  
 The format for your response should be split into the 4 scenes, with each scene having a background, the characters in it, and the dialogue.
 With the dialogue not exceeding 7 sentences per scene and each sentence not exceeding 15 words, and the amount of characters per scene not exceeding 2.  
@@ -63,18 +63,22 @@ As there will be only 2 characters at one time in a scene, do not make up names 
 Also avoid using a full stop in dialogue and separate long sentences that would have used full stops into multiple lines by the same character.
 Example:  
 A good example of an exchange in scene 2 would be:  
-Background: Park
-Character 1: "you can see people's kill count?"  
-Character 1: "what are you supposed to use that for"  
-Character 2: "ikr i work in a library"  
-Character 1: "you could keep the books safe from serial killers"  
-Character 2: "yeah maybe i'll find the guy who killed my plants"  
+Background: Park  
+Characters: mc, sc  
+Dialogue:  
+sc: "you can see people's kill count?"  
+sc: "what are you supposed to use that for"  
+mc: "ikr i work in a library"  
+sc: "you could keep the books safe from serial killers"  
+mc: "yeah maybe i'll find the guy who killed my plants"  
 Another good example of an exchange in scene 3 would be:  
 Background: Supermarket  
-Character 1: "wait, why is your kill count so high?"  
-Character 2: "no shit, im a butcher"  
-Character 2: "i kill things for a living"  
-Character 1: "oh right, my bad"  
+Characters: mc, sc  
+Dialogue:  
+mc: "wait, why is your kill count so high?"  
+sc: "no shit, im a butcher"  
+sc: "i kill things for a living"  
+mc: "oh right, my bad"  
 
 ## AI Specifications
 The scripts are generated by GPT4.1 through POE.
