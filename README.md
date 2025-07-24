@@ -61,7 +61,7 @@ This time the superpower the character is getting is the main character can see 
 Format:  
 The format for your response should be split into the 4 scenes, with each scene having a background, the characters in it, and the dialogue.
 With the dialogue between 4 and 8 sentences per scene and each sentence not exceeding 15 words, and the amount of characters per scene not exceeding 2. The 4 to 8 sentences a scene is more of a suggestion and you do not need to meet it in every scene, especially during scenes with only one character. Do not add dialogues that do not help with telling the story to pad out the dialogue count. 
-As there will be only 2 characters at one time in a scene, do not make up names for the characters and do not reference the character's names in the dialogue, in the script the name of the main character will be "mc" and the other character in the scene if there are any will be "sc".
+As there will be only 2 groups of characters at one time in a scene, do not make up names for the characters and do not reference the character's names in the dialogue. In the script, the name of the main character should be "me" and the name of any other characters should be a simple title like "friend" or "robber".
 Also avoid using a full stop in dialogue and separate long sentences that would have used full stops into multiple lines by the same character. 
 Do not contradict yourself in the scenes, if you have stated how a superpower works in one scene, do not change it in the next scene, and plan the whole story before writing it out to avoid contradictions.  
 Effects:  
