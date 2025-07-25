@@ -4,10 +4,13 @@ class Clip:
     def __init__(self, cl, dur, pos):
         self.cl = cl
         self.dur = int(dur)
-        self.pos = pos
+        match pos:
+            case center:
+                self.pos = (540, 1280)
 
     def opening_layout(self):
-        pos_center = (540, 1280)
-        clip = VideoFileClip(self.cl).subclipped(0, self.dur).with_position(pos_center).resized(width=500)
+        center = (540, 1280)
+        # clip = VideoFileClip(self.cl).subclipped(0, self.dur).with_position(self.pos).resized(width=500)
+        print(self.pos)
 
 
