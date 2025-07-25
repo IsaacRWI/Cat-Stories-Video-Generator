@@ -7,6 +7,7 @@ class Clip:
         self.pos = pos
 
     def opening_layout(self):
-        clip = VideoFileClip(self.cl).subclipped(0, self.dur).with_position((self.posx, self.posy)).resized(width=500)
+        pos_center = (540, 1280)
+        clip = VideoFileClip(self.cl).subclipped(0, self.dur).with_position(pos_center).resized(width=500)
 
 
